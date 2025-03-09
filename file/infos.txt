@@ -1,5 +1,5 @@
-a
-s
-ç
-s
-1
+Ahmet
+Salih
+Celik
+Student
+1234567890

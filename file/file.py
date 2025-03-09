@@ -1,7 +1,7 @@
-input = input("Your Input: ")
+data = input("Your Input: ")
 
 with open("content.txt", "w") as file:
-    file.write(input)
+    file.write(data)
 
 with open("content.txt", "r") as file:
     content = file.read()
